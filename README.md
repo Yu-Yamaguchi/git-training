@@ -1,1 +1,1 @@
-# git-training
+# GitHubとSourceTreeを使ったGitのトレーニング
